@@ -1,0 +1,19 @@
+{
+  "name": "@types/query-manager",
+  "version": "1.0.0",
+  "description": "TypeScript typings for query-manager npm module.",
+  "main": "index.d.ts",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/proprogrammer2015/types-query-manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/proprogrammer2015/types-query-manager/issues"
+  },
+  "homepage": "https://github.com/proprogrammer2015/types-query-manager#readme"
+}

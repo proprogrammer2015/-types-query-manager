@@ -1,0 +1,1 @@
+TypeScript typings for query-manager npm module.
