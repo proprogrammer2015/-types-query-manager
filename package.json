@@ -1,5 +1,5 @@
 {
-  "name": "@types/query-manager",
+  "name": "types-query-manager",
   "version": "1.0.0",
   "description": "TypeScript typings for query-manager npm module.",
   "main": "index.d.ts",
